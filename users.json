@@ -1,0 +1,47 @@
+{
+  "data":
+  [
+    {
+      "id":1,
+      "UserName":"Thiruppathi Arjunan",
+      "Email":"thirunan_a@yahoo.com",
+      "Phone":"9894420528",
+      "Education":"B.E",
+      "Occupation": "Software Engineer",
+      "Address":"Arunachalam pudur, Tharamangalam",
+      "City":"salem",
+      "State":"Tamilnadu",
+      "Country":"India",
+      "IdintityNo": "5366-1521-2481",
+      "Gender":"Male"
+    },
+    {
+      "id":2,
+      "UserName":"Thiruppathi Arjunan2",
+      "Email":"thirunan_a@yahoo.com",
+      "Phone":"9894420528",
+      "Education":"B.E",
+      "Occupation": "Software Engineer",
+      "Address":"Arunachalam pudur, Tharamangalam",
+      "City":"salem",
+      "State":"Tamilnadu",
+      "Country":"India",
+      "IdintityNo": "5366-1521-2481",
+      "Gender":"Male"
+    },
+    {
+      "id":3,
+      "UserName":"Thiruppathi Arjunan3",
+      "Email":"thirunan_a@yahoo.com",
+      "Phone":"9894420528",
+      "Education":"B.E",
+      "Occupation": "Software Engineer",
+      "Address":"Arunachalam pudur, Tharamangalam",
+      "City":"salem",
+      "State":"Tamilnadu",
+      "Country":"India",
+      "IdintityNo": "5366-1521-2481",
+      "Gender":"Male"
+    }
+  ]
+}
